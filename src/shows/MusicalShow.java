@@ -1,8 +1,8 @@
-package Shows;
+package shows;
 
 
-import Persons.Director;
-import Persons.Person;
+import persons.Director;
+import persons.Person;
 
 
 public class MusicalShow extends Show{
@@ -15,7 +15,7 @@ public class MusicalShow extends Show{
         this.librettoText = librettoText;
     }
 
-    public String getLibrettoText() {
-        return librettoText;
+    public void printLibretto() {
+        System.out.println(librettoText);
     }
 }

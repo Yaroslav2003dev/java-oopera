@@ -1,8 +1,8 @@
-package Shows;
+package shows;
 
 
-import Persons.Director;
-import Persons.Person;
+import persons.Director;
+import persons.Person;
 
 
 public class Ballet extends MusicalShow{

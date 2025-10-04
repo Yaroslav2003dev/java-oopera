@@ -1,7 +1,7 @@
-package Shows;
+package shows;
 
-import Persons.Actor;
-import Persons.Director;
+import persons.Actor;
+import persons.Director;
 
 import java.util.ArrayList;
 

@@ -1,4 +1,4 @@
-package Persons;
+package persons;
 
 public class Director extends Person {
     protected int numberOfShows;
